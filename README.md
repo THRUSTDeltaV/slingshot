@@ -2,7 +2,7 @@
 
 _Accelerating trajectory into interstellar space._
 
-Slingshot is a new blockchain architecture under active development,
+Slingshot Protocol is a new blockchain architecture under active development,
 with a strong focus on scalability, privacy and safety.
 
 The Slingshot project consists of the following components:
@@ -11,7 +11,6 @@ The Slingshot project consists of the following components:
 
 Demo node where one can create transactions and inspect the blockchain.
 
-* Visit a public instance: [zkvm-demo.stellar.org](https://zkvm-demo.stellar.org).
 * Run on your own machine: [see instructions](demo/README.md).
 
 ### [ZkVM](zkvm)
